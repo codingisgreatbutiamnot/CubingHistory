@@ -31,7 +31,7 @@ stickering={{
 
 ### Ryan Heise
 
-Tripod has been a relatively commonly proposed method idea. However, the first known suggestion of the complete structure of the Tripod method comes from Ryan Heise. In December, 2022, Heise posted a message to the Speed Solving Rubik's Cube Yahoo group describing the method and describing it as having a "tripod" shape [^heise-2002].
+Tripod has been a relatively commonly proposed method idea. However, the first known suggestion of the complete structure of the Tripod method comes from Ryan Heise. In December 2002, Heise posted a message to the Speed Solving Rubik's Cube Yahoo group describing the method and describing it as having a "tripod" shape [^heise-2002].
 
 ![](img/Tripod/Heise1.png)
 ![](img/Tripod/Heise2.png)
